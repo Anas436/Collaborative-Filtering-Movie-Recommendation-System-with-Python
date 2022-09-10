@@ -54,4 +54,4 @@ Notice: To add more movies, simply increase the amount of elements in the userIn
 *   There might be a low amount of users to approximate
 *   Privacy issues when trying to learn the user's preferences
 
-__Dataset__: Dataset acquired from [GroupLens](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%205/data/moviedataset.zip).
+### Dataset: Dataset acquired from [GroupLens](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%205/data/moviedataset.zip).
